@@ -1,0 +1,8 @@
+#
+# fips-clipper
+#
+---
+exports:
+  header-dirs : [ '.', 'clipper'  ]
+  modules:
+    clipper:   clipper
